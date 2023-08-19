@@ -2,7 +2,7 @@
 Hey there! Welcome to the Gilbert Bagen's Awesome Time Converter repository. In this simple guide, we'll show you how to use Gilbert Bagen's clever functions to convert time from the regular 12-hour format to the cool 24-hour format, count positive numbers like a pro, and calculate the value of consonant-packed words.
 
 ## Functions
-## 1. Convert 12-Hour Time to 24-Hour Time
+# 1. Convert 12-Hour Time to 24-Hour Time
 Function: convert_to_24_hours(hour, minute, period)
 
 This nifty function takes your time in the morning or evening and transforms it into the modern 24-hour format. Let's see it in action:
