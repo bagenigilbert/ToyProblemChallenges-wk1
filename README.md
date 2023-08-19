@@ -11,7 +11,7 @@ print(convert_to_24_hours(8, 30, "AM"))  # Output: "08:30"
 
 ## Convert 8:30 PM to 24-hour format
 print(convert_to_24_hours(8, 30, "PM"))  # Output: "20:30"
-## 2. Count Exactly Two Positive Numbers
+# 2. Count Exactly Two Positive Numbers
 ## Function: exactly_two_positive(a, b, c)
 
 This magical function tells you whether you've got exactly two positive numbers out of three. It's like counting your marbles, but with numbers! Check it out:
@@ -21,20 +21,20 @@ print(exactly_two_positive(2, 4, -3))  # Output: True
 print(exactly_two_positive(-4, 6, 8))  # Output: True
 print(exactly_two_positive(4, -6, 9))  # Output: True
 print(exactly_two_positive(-4, 6, 0))  # Output: False
-## 3. Calculate Consonant Value
+# 3. Calculate Consonant Value
 Function: consonant_value(s)
 
 Ever wondered how much consonant power a word holds? This function calculates the value of consonant-packed words and gives you a taste of their awesomeness:
 ## Calculate the value of consonants in a word
 print(consonant_value("zodiacs"))  # Output: 26
 print(consonant_value("strength"))  # Output: 57
-## How to Use
+# How to Use
 Make sure you've got Python installed on your computer.
 Download or clone this repository.
 Open your terminal and navigate to the repository's directory.
 Use the functions in your own code by importing them. For example:
 
-## from gilbert_bagen_utils import convert_to_24_hours
+# from gilbert_bagen_utils import convert_to_24_hours
 
 ## Now you can use convert_to_24_hours function as shown earlier!
 # Author
